@@ -16,6 +16,8 @@
 
 img{
     background-color:silver;
+    border-radius: 50%;
+    height: 150px;
 
 
 }
@@ -28,6 +30,7 @@ img{
     background-color: #6998AB;
     height: 700px;
     width: 1832px;
+    /* padding-top: 500px; */
 }
 
 
