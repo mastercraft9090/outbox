@@ -1,3 +1,48 @@
+.top-container {
+    background-image: url("./website-images/skyline-4582510.jpg");
+    height: 700px;
+    height: 700px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-color: #B1D0E0;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    opacity: 0.7;
+        
+}
+
+img{
+    background-color:silver;
+
+
+}
+.middle-container{
+    background-color: silver;
+    height: 700px;
+    width: 1832px;
+}
+.bottom-container{
+    background-color: #6998AB;
+    height: 700px;
+    width: 1832px;
+}
+
+
+h1 {
+    width: 10%;
+    margin: 0 auto 0 auto;
+}
+
+p {
+    margin-top: 10;
+    margin: 10;
+    font-family: 'La Belle Aurore', cursive;
+}
 body {
-    background: green;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merienda',cursive;
 }
